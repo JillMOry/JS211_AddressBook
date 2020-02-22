@@ -1,0 +1,25 @@
+body {
+	font-family: "Parisienne", cursive;
+	font-family: "Satisfy", cursive;
+	font-family: "Dancing Script", cursive;
+	background-color: #dee1e8;
+}
+
+button {
+	margin: 1%;
+	background: #9ca9bf;
+	border-radius: 25%;
+}
+
+img {
+	height: 85px;
+	width: 85px;
+}
+
+#text {
+	display: block;
+}
+
+ul {
+	list-style-type: none;
+}
